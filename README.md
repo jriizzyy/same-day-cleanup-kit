@@ -1,6 +1,6 @@
 # Same-Day Cleanup Kit
 
-Fast cleanup for messy documents, resumes, flyers, menus, spreadsheets, PDFs, and process notes.
+Fast remote cleanup for messy documents, resumes, flyers, menus, spreadsheets, PDFs, and process notes. Small jobs can usually be scoped the same day, with a preview before final delivery.
 
 ## What I can clean up
 
@@ -19,7 +19,7 @@ Fast cleanup for messy documents, resumes, flyers, menus, spreadsheets, PDFs, an
 
 ## Turnaround
 
-Most small projects are delivered within 24 hours after source material and scope are confirmed.
+Most small projects are delivered within 24 hours after source material and scope are confirmed. If you need help today, open a request with the deadline and desired output format.
 
 ## How it works
 
@@ -38,7 +38,7 @@ Most small projects are delivered within 24 hours after source material and scop
 
 ## Request help
 
-Open a public request here:
+Open a public request here. Describe the task first, then I will confirm scope and quote before asking for any file that should stay private:
 
 [Request a cleanup](https://github.com/jriizzyy/same-day-cleanup-kit/issues/new?template=cleanup-request.md)
 
